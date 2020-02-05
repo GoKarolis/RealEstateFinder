@@ -1,5 +1,5 @@
 # RealEstateFinder
-![RealEstateFinder](https://github.com/GoKarolis/RealEstateFinder/blob/master/dream-house-2.jpg)
+![RealEstateFinder](https://github.com/GoKarolis/RealEstateFinder/blob/master/house_image.jpg)
 
 This repository was made to store my very first Python project which was developed for finding the best real estate opportunities to invest!
 
