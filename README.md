@@ -1,5 +1,5 @@
 # RealEstateFinder
-![RealEstateFinder](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F2476049-Dream-House-2&psig=AOvVaw03Hucqe5TLo_1rHnEjl0RZ&ust=1581013250530000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDYhd6Du-cCFQAAAAAdAAAAABAE)
+![RealEstateFinder](https://github.com/GoKarolis/RealEstateFinder/blob/master/dream-house-2.jpg)
 
 This repository was made to store my very first Python project which was developed for finding the best real estate opportunities to invest!
 
