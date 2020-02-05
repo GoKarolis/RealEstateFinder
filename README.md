@@ -5,7 +5,26 @@ This repository was made to store my very first Python project which was develop
 - What does this tool do?
 - Main functionalities
 - The list of real estate websites this tool uses
-- How to use it
+- How to use it?
 
 # What does this tool do?
 This tool use
+
+
+# Main functionalities
+1. Gather real estate data from main real estate websites in Lithuania
+2. Save the data to the document file
+3. Suggest three best deals immediately in the pop up window
+
+# The list of real estate websites this tool uses
+https://www.aruodas.lt/
+https://www.ntzemelapis.lt/
+[ttps://domoplius.lt/]
+
+# How to use it?
+
+# Get to Know the Author
+***Karolis*** *switched his career to IT in 2016, after four years work experience in sales. His first new job was RPA developer and it was the most awesome time in his life. In 2019 he joined the TribeOfAI in order to learn new skills and to start moving towards mysterious world of the true programmers and whole world is watching. The strugle is real. *
+
+# Suggestions and Feedback
+Feel free to send your ideas to me via my email k.gostautas@gmail.com, I will be more than glad to improve this tool and my skills too!
