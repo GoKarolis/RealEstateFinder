@@ -10,7 +10,7 @@ This repository was made to store my very first Python project which was develop
 - How to use it?
 
 ### What does this tool do?
-This tool use **Selenium** to gather real estate data from the internet websites, makes calculations and saves the to the report. 
+This tool use **Selenium** to gather real estate data from the lithuanian internet websites, makes calculations and saves data to the Excel report. When finished, popup appears with a list of best deals and links to reach them directly.
 
 ### Main functionalities
 1. Gather real estate data from main real estate websites in Lithuania
