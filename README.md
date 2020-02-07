@@ -28,7 +28,7 @@ https://domoplius.lt/
 Just run it and watch the magic happen.
 
 ### Get to Know the Author
-***Karolis*** *switched his career to IT in 2016, after four years work experience in sales. His first new job was RPA developer and it was the most awesome time in his life. In 2019 he joined the TribeOfAI in order to learn new skills and to start moving towards mysterious world of the true programmers and whole world is watching. The strugle is real. *
+***Karolis*** *switched his career to IT in 2016, after four years work experience in sales. His first new job was RPA developer and it was the most awesome time in his life. In 2019 he joined the TribeOfAI in order to learn new skills and to start moving towards mysterious world of the true programmers and whole world is watching. The strugle is real.
 
 ### Suggestions and Feedback
 Feel free to send your ideas to me via my email k.gostautas@gmail.com, I will be more than glad to improve this tool and my skills too!
