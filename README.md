@@ -14,7 +14,7 @@ This tool use **Selenium** to gather real estate data from the lithuanian intern
 
 ### Main functionalities
 1. Gather real estate data from main real estate websites in Lithuania
-2. Save the data to the document file
+2. Save the data to JSON files
 3. Suggest three best deals immediately in the pop up window
 
 ### The list of real estate websites this tool uses
