@@ -20,8 +20,6 @@ This tool use **Selenium** to gather real estate data from the lithuanian intern
 ### The list of real estate websites this tool uses
 https://www.aruodas.lt/
 
-https://www.ntzemelapis.lt/
-
 https://domoplius.lt/
 
 ### How to use it?
